@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Contact List Management System
 
 You can use the [editor on GitHub](https://github.com/samdgea/contact-list-management-system/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
