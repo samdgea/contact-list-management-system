@@ -2,6 +2,12 @@
 
 Aplikasi management customer
 
+## Screenshot
+
+![Screenshot 1](https://cdn.abdilah.id/clms/screenshoot1.jpg)
+
+![Screenshot 2](https://cdn.abdilah.id/clms/screenshoot2.jpg)
+
 ### Inisialisasi
 
 - Clone repository dengan menjalankan perintah `https://github.com/samdgea/contact-list-management-system.git`
